@@ -1,0 +1,3 @@
+user1;fname1;lname1;123456;80600
+user2;fname2;lname2;234567;52210
+user3;fname3;lname3;456789;840000
